@@ -6,10 +6,8 @@ Business Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Oct 12 07:09:56 JST 2022)
+     0 directories, 2 files (Thu Jun  8 22:28:37 JST 2023)
 
-
->>>>>>> cf39ec771a096da31d0b905d9c4742c804b722bf
 
 Note: URL = https://github.com/hohno-46466/bZone
 
